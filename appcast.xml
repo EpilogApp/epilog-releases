@@ -5,5 +5,16 @@
 		<description>Updates for the Epilog macOS app</description>
 		<language>en</language>
 		<!-- sparkle:items -->
+		<item>
+			<title>Epilog 0.7.2</title>
+			<pubDate>Thu, 09 Jul 2026 21:41:04 GMT</pubDate>
+			<sparkle:version>9005</sparkle:version>
+			<sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/test-b9005/Epilog-test-b9005.zip"
+				length="20550676"
+				type="application/octet-stream"
+				sparkle:edSignature="TYLAfylcjjQMiZ0gSPbFW3h8PKuLY/p1L08GuU5YcjJWMNU96KHe/8DI7oxzkZyP66R3a522n8dqH1xuKH/wDQ==" />
+		</item>
 	</channel>
 </rss>
