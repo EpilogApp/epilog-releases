@@ -5,5 +5,31 @@
 		<description>Updates for the Epilog macOS app</description>
 		<language>en</language>
 		<!-- sparkle:items -->
+		<item>
+			<title>Epilog 0.9</title>
+			<pubDate>Fri, 10 Jul 2026 07:29:23 GMT</pubDate>
+			<sparkle:version>38</sparkle:version>
+			<sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>What&#x27;s New</h3>
+<ul>
+<li>Entry Editor: press Up button to reuse prior entries</li>
+<li>Epilog on macOS can now look for and install updates — on by default, opt out in Settings → General</li>
+<li>A Download button will show when updates are available</li>
+<li>Sign in with Apple or Google added</li>
+</ul>
+<h3>Bug Fixes</h3>
+<ul>
+<li>Tint colors</li>
+<li>Various layouts</li>
+<li>Various fixes in the iPhone &amp; iPad apps</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.9/Epilog-0.9.zip"
+				length="20560410"
+				type="application/octet-stream"
+				sparkle:edSignature="mZimh88iIAzqFgPP8QEwE8gI1AQ6XrVshMrSBvzjb6j+2AjZPngpwR63EI8tsC3XtIAoYTfwSMkikafQAOj4Dw==" />
+		</item>
 	</channel>
 </rss>
