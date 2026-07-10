@@ -7,6 +7,17 @@
 		<!-- sparkle:items -->
 		<item>
 			<title>Epilog 0.7.2</title>
+			<pubDate>Fri, 10 Jul 2026 04:13:08 GMT</pubDate>
+			<sparkle:version>9002</sparkle:version>
+			<sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/test-b9002/Epilog-test-b9002.zip"
+				length="20559772"
+				type="application/octet-stream"
+				sparkle:edSignature="n5vDDybvr0AteNThQA6mVVDl+e6cVUB3tZbokMY5/+bZUEMlo4owW0it4kqZj5i6VJYdFt1BkdRU8QcytvePAw==" />
+		</item>
+		<item>
+			<title>Epilog 0.7.2</title>
 			<pubDate>Fri, 10 Jul 2026 03:31:02 GMT</pubDate>
 			<sparkle:version>9001</sparkle:version>
 			<sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
