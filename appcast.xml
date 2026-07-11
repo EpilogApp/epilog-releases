@@ -6,6 +6,28 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.10</title>
+			<pubDate>Sat, 11 Jul 2026 02:47:59 GMT</pubDate>
+			<sparkle:version>39</sparkle:version>
+			<sparkle:shortVersionString>0.10</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<p>### Connect your AI apps</p>
+<p>Epilog can now act as an MCP (Model Context Protocol) server, letting AI apps on your Mac work with your journal — Claude Desktop, Claude Code, and any other MCP-capable app. They can search and read your entries, log new ones for you, and write day and week summaries.</p>
+<ul>
+<li>Turn it on in **Settings → AI Connections**, then copy the setup snippet for your AI app.</li>
+<li>Off by default. Connections only work while Epilog is running and signed in, and you can turn them off anytime.</li>
+<li>Once enabled, a status button appears in the toolbar: green while the server is running. Click it to toggle AI Connections without opening Settings.</li>
+</ul>
+<p>### User Guide (in progress)</p>
+<p>Epilog now has a built-in User Guide. Mac users can now open it from the Help menu or press ⌘?. It includes step-by-step AI Connections setup and a full command reference. More topics are on the way.</p>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.10/Epilog-0.10.zip"
+				length="23565286"
+				type="application/octet-stream"
+				sparkle:edSignature="QEsUhpiZbitfNg3AnzwZQCpfuwQsNq1OPg1DjQ+DLf9r6lQSv3XGOHWvj3RfNqfszLQhE2blItS8SdD+YSSmBw==" />
+		</item>
+		<item>
 			<title>Epilog 0.9</title>
 			<pubDate>Fri, 10 Jul 2026 07:29:23 GMT</pubDate>
 			<sparkle:version>38</sparkle:version>
