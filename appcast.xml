@@ -33,11 +33,11 @@
 			<sparkle:shortVersionString>0.11</sparkle:shortVersionString>
 			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
 			<description><![CDATA[
-<p>**Epilog 0.11**</p>
-<p>**Deleting is no longer forever.** Deleted entries — whether removed by you or by a connected AI app — are now recoverable for 30 days instead of being erased immediately. AI apps get a matching restore ability, and previous versions of edited entries are kept.</p>
-<p>**AI apps now work under guardrails.** Every entry records who wrote it — you, or a specific AI app on a specific device. AI apps must prove they&#x27;ve read an entry before they can delete it, you decide how many entries one AI conversation may delete (Settings → AI Connections), and every AI change is logged on your Mac.</p>
-<p>**Smarter AI journaling.** Connected AI apps can now log entries that cross midnight, add to an existing time block without creating duplicates, give each line its own category, review any span of your journal — a quarter, a year, all of it — and verify exactly which Epilog they&#x27;re talking to.</p>
-<p>**Fixes**</p>
+<p><b>Epilog 0.11</b></p>
+<p><b>Deleting is no longer forever.</b> Deleted entries — whether removed by you or by a connected AI app — are now recoverable for 30 days instead of being erased immediately. AI apps get a matching restore ability, and previous versions of edited entries are kept.</p>
+<p><b>AI apps now work under guardrails.</b> Every entry records who wrote it — you, or a specific AI app on a specific device. AI apps must prove they&#x27;ve read an entry before they can delete it, you decide how many entries one AI conversation may delete (Settings → AI Connections), and every AI change is logged on your Mac.</p>
+<p><b>Smarter AI journaling.</b> Connected AI apps can now log entries that cross midnight, add to an existing time block without creating duplicates, give each line its own category, review any span of your journal — a quarter, a year, all of it — and verify exactly which Epilog they&#x27;re talking to.</p>
+<p><b>Fixes</b></p>
 <ul>
 <li>Overnight entries that end after midnight no longer show &quot;(Yesterday)&quot; beside a time that&#x27;s already today.</li>
 <li>Repeated #hashtags and @mentions in a single entry are no longer counted twice.</li>
@@ -56,14 +56,14 @@
 			<sparkle:shortVersionString>0.10</sparkle:shortVersionString>
 			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
 			<description><![CDATA[
-<p>### Connect your AI apps</p>
+<h3>Connect your AI apps</h3>
 <p>Epilog can now act as an MCP (Model Context Protocol) server, letting AI apps on your Mac work with your journal — Claude Desktop, Claude Code, and any other MCP-capable app. They can search and read your entries, log new ones for you, and write day and week summaries.</p>
 <ul>
-<li>Turn it on in **Settings → AI Connections**, then copy the setup snippet for your AI app.</li>
+<li>Turn it on in <b>Settings → AI Connections</b>, then copy the setup snippet for your AI app.</li>
 <li>Off by default. Connections only work while Epilog is running and signed in, and you can turn them off anytime.</li>
 <li>Once enabled, a status button appears in the toolbar: green while the server is running. Click it to toggle AI Connections without opening Settings.</li>
 </ul>
-<p>### User Guide (in progress)</p>
+<h3>User Guide (in progress)</h3>
 <p>Epilog now has a built-in User Guide. Mac users can now open it from the Help menu or press ⌘?. It includes step-by-step AI Connections setup and a full command reference. More topics are on the way.</p>
 			]]></description>
 			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.10/Epilog-0.10.zip"
