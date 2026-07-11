@@ -6,6 +6,29 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.11</title>
+			<pubDate>Sat, 11 Jul 2026 07:35:32 GMT</pubDate>
+			<sparkle:version>40</sparkle:version>
+			<sparkle:shortVersionString>0.11</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<p>**Epilog 0.11**</p>
+<p>**Deleting is no longer forever.** Deleted entries — whether removed by you or by a connected AI app — are now recoverable for 30 days instead of being erased immediately. AI apps get a matching restore ability, and previous versions of edited entries are kept.</p>
+<p>**AI apps now work under guardrails.** Every entry records who wrote it — you, or a specific AI app on a specific device. AI apps must prove they&#x27;ve read an entry before they can delete it, you decide how many entries one AI conversation may delete (Settings → AI Connections), and every AI change is logged on your Mac.</p>
+<p>**Smarter AI journaling.** Connected AI apps can now log entries that cross midnight, add to an existing time block without creating duplicates, give each line its own category, review any span of your journal — a quarter, a year, all of it — and verify exactly which Epilog they&#x27;re talking to.</p>
+<p>**Fixes**</p>
+<ul>
+<li>Overnight entries that end after midnight no longer show &quot;(Yesterday)&quot; beside a time that&#x27;s already today.</li>
+<li>Repeated #hashtags and @mentions in a single entry are no longer counted twice.</li>
+<li>AI connections stay responsive while the app is busy, and simultaneous AI edits can no longer overwrite each other.</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.11/Epilog-0.11.zip"
+				length="23728107"
+				type="application/octet-stream"
+				sparkle:edSignature="+aMsomjoBApP/Jbjtdi///3fBAvBqL7MiN1t8WHltw7ghRE74jPS+N+kUBQkYDnvPsqpeMeyRUj/VZAqrgP/Bg==" />
+		</item>
+		<item>
 			<title>Epilog 0.10</title>
 			<pubDate>Sat, 11 Jul 2026 02:47:59 GMT</pubDate>
 			<sparkle:version>39</sparkle:version>
