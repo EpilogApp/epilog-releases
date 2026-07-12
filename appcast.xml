@@ -6,6 +6,30 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.13</title>
+			<pubDate>Sun, 12 Jul 2026 03:15:53 GMT</pubDate>
+			<sparkle:version>42</sparkle:version>
+			<sparkle:shortVersionString>0.13</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>Find Your #Tags &amp; @Mentions</h3>
+<ul>
+<li>Every journal in the sidebar now shows a tag cloud for #tags and @mentions — now it&#x27;s easier to discover what you&#x27;ve been writing about at a glance, and jump straight to any tag.</li>
+<li>Tags now carry their journal&#x27;s color throughout your days and entries.</li>
+</ul>
+<h3>Weeks that start on Monday</h3>
+<ul>
+<li>Weeks now follow the ISO standard — Monday through Sunday — consistently on every device and in every region.</li>
+<li>Weeks around New Year&#x27;s are labeled correctly: late-December days that belong to the new year&#x27;s first week now say so.</li>
+<li>Your journal reorganizes itself automatically the first time you launch this version — nothing for you to do.</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.13/Epilog-0.13.zip"
+				length="23869854"
+				type="application/octet-stream"
+				sparkle:edSignature="3WVY+QHgZRUUKafzzIHD4sM8suyZJzScwwWSuAKdlHlzRoZ/NywB8M7iLRKYVcGfI8Hhtwo5pkN7sGbZx/YoDA==" />
+		</item>
+		<item>
 			<title>Epilog 0.12</title>
 			<pubDate>Sat, 11 Jul 2026 23:40:58 GMT</pubDate>
 			<sparkle:version>41</sparkle:version>
