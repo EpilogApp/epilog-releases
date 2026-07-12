@@ -6,6 +6,37 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.14</title>
+			<pubDate>Sun, 12 Jul 2026 06:07:17 GMT</pubDate>
+			<sparkle:version>43</sparkle:version>
+			<sparkle:shortVersionString>0.14</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>Autocomplete for tags &amp; mentions</h3>
+<ul>
+<li>Start typing # or @ in an entry and Epilog suggests your most-used tag right in the text — press Tab or → to accept it, ↑/↓ to browse other matches</li>
+<li>Suggestions are scoped to the journal you&#x27;re writing in, so each category offers its own tags</li>
+</ul>
+<h3>Tags, everywhere they belong</h3>
+<ul>
+<li>Tags from your past entries now show up reliably in tag clouds and filters — including older entries where they&#x27;d previously gone missing</li>
+<li>Tags and mentions display in a softer tone that stays out of the way of your writing</li>
+</ul>
+<h3>Windows that remember</h3>
+<ul>
+<li>Each view — timer, My Days, Settings — keeps its own window size and position, and switching views glides the window into place</li>
+</ul>
+<h3>Account</h3>
+<ul>
+<li>Change your password anytime from Settings → My Account</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.14/Epilog-0.14.zip"
+				length="23920114"
+				type="application/octet-stream"
+				sparkle:edSignature="cinE4gkAxbKk2CzfmKRaajLaTr1RbHd0WAi7EiIXYIqdB6uNbcMvjKfShgm+dX88E4GQLZUei+qPVHe4tAoXCw==" />
+		</item>
+		<item>
 			<title>Epilog 0.13</title>
 			<pubDate>Sun, 12 Jul 2026 03:15:53 GMT</pubDate>
 			<sparkle:version>42</sparkle:version>
