@@ -6,6 +6,36 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.16</title>
+			<pubDate>Tue, 14 Jul 2026 06:36:49 GMT</pubDate>
+			<sparkle:version>45</sparkle:version>
+			<sparkle:shortVersionString>0.16</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>AI summaries, your choice of provider</h3>
+<ul>
+<li>Connect ChatGPT using your own OpenAI API key — alongside the existing Claude API support</li>
+<li>Your AI preferences now follow your account, and API keys are kept separate per account</li>
+<li>Summaries now speak in your own voice and stay shorter and more scannable</li>
+</ul>
+<h3>A cleaner Settings window</h3>
+<ul>
+<li>Settings reorganized into grouped sections, in the style of macOS System Settings</li>
+<li>Full open-source license texts are now included</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Fixed the auto-updater failing to start when the app was in the foreground from launch</li>
+<li>Fixed the summary progress spinner clipping in the toolbar</li>
+<li>AI status rows no longer appear while AI services are turned off</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.16/Epilog-0.16.zip"
+				length="24386009"
+				type="application/octet-stream"
+				sparkle:edSignature="3x8E0lRm+w/5ndE7BnyR/m9eQfqtuL/QEYp9/nx1wK5EO0at+iVbxeSBuhPZ4bBL3//+pa1LyL0qhnj/EqwoDg==" />
+		</item>
+		<item>
 			<title>Epilog 0.15</title>
 			<pubDate>Mon, 13 Jul 2026 08:35:44 GMT</pubDate>
 			<sparkle:version>44</sparkle:version>
