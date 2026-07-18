@@ -6,6 +6,38 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.18</title>
+			<pubDate>Sat, 18 Jul 2026 06:05:14 GMT</pubDate>
+			<sparkle:version>47</sparkle:version>
+			<sparkle:shortVersionString>0.18</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>Summaries, beyond the day</h3>
+<ul>
+<li>My Days now has dedicated Summary views — flip between your entries and AI summaries with a tap</li>
+<li>Summaries now span real stretches of time: week, two-week, month, quarter, half-year, and year, anchored to whichever day you&#x27;re viewing</li>
+<li>Cleaner summary layout: a quick overview up top, then each journal in its own section</li>
+<li>Each journal&#x27;s section pairs a short overview with bullet highlights</li>
+</ul>
+<h3>AI that asks first</h3>
+<ul>
+<li>Long-duration summaries (a month or longer) are generated only when you ask, with token and cost estimates and a confirmation dialog before you commit. They are never auto-generated.</li>
+<li>Every summary page shows when it was last updated and a freshness icon</li>
+<li>Long generations are now far more reliable — no more silently stalled summaries</li>
+</ul>
+<h3>Fixes and improvements</h3>
+<ul>
+<li>Fixed a scrolling freeze in Today on macOS</li>
+<li>Fixed list spacing in Today on iOS</li>
+<li>Connected agents can now write day and period summaries over MCP</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.18/Epilog-0.18.zip"
+				length="25090913"
+				type="application/octet-stream"
+				sparkle:edSignature="+07xdzu0Lw+7yTtoywXz1DL14ro19PKoRmOYojwnbrKmqYUYt7PC+TwQb2KzVPzDOVC7Xl1l0LFIzWBMZX5xBQ==" />
+		</item>
+		<item>
 			<title>Epilog 0.17</title>
 			<pubDate>Thu, 16 Jul 2026 04:43:55 GMT</pubDate>
 			<sparkle:version>46</sparkle:version>
