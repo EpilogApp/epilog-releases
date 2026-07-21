@@ -6,6 +6,36 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.19</title>
+			<pubDate>Tue, 21 Jul 2026 13:07:24 GMT</pubDate>
+			<sparkle:version>48</sparkle:version>
+			<sparkle:shortVersionString>0.19</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>A new look on macOS 26</h3>
+<ul>
+<li>Epilog takes on Liquid Glass — a soft glass backdrop behind your day, with controls that float on the new material.</li>
+<li>The circle timer becomes a glass lens with a floating shadow, tuned by hand until it caught the light just right.</li>
+<li>Prefer the classic look? Two new settings — <b>Timer</b> and <b>Timer background</b> — let you choose Glass or Classic.</li>
+<li>On earlier versions of macOS, everything keeps its familiar chrome.</li>
+</ul>
+<h3>Privacy</h3>
+<ul>
+<li>Epilog now collects anonymous usage statistics — which features get used, never what you write. Your entries, tags, and summaries stay yours. Opt out any time in Settings → Privacy.</li>
+<li>Removed the unused Firebase Analytics library and added Apple&#x27;s privacy manifest, so what the app declares is exactly what it does.</li>
+</ul>
+<h3>Polish</h3>
+<ul>
+<li>Summary pages read better: full-size text in the standard text color, categories in the order you arranged them, and padding that lines up with the Entries page.</li>
+<li>The summary refresh button now wears Epilog&#x27;s AI mark.</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.19/Epilog-0.19.zip"
+				length="25291459"
+				type="application/octet-stream"
+				sparkle:edSignature="jtnNHtNN6C+pyoaHqbtJ+Mdf1empbGgycX2irkd0N4+CLXHAwbeGmlc5+vwSqEOXW/eOZWQpjFf/QD2ytdw8CA==" />
+		</item>
+		<item>
 			<title>Epilog 0.18</title>
 			<pubDate>Sat, 18 Jul 2026 06:05:14 GMT</pubDate>
 			<sparkle:version>47</sparkle:version>
