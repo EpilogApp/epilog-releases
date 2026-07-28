@@ -6,6 +6,40 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.20</title>
+			<pubDate>Tue, 28 Jul 2026 06:33:45 GMT</pubDate>
+			<sparkle:version>49</sparkle:version>
+			<sparkle:shortVersionString>0.20</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<p><b>The User Guide is here.</b> Epilog now has a full User Guide at epilog.io/user-guide — every screen, feature, and setting explained, and always up to date. It&#x27;s one tap away in Settings and in the Mac&#x27;s Help menu.</p>
+<p><b>Working past midnight? Epilog keeps up.</b> When a work session runs through midnight, Today now shows a live &quot;Tonight so far&quot; summary of the whole session — last night and this morning together. It refreshes on demand and retires on its own once the session ends. (Requires AI summaries to be enabled.)</p>
+<p><b>Categories, right where you use them.</b> Add, rename, recolor, reorder, or delete your categories directly in the Categories drawer, instead of in the Settings page.</p>
+<p><b>Settings and Help, reorganized.</b> Settings are now grouped so things sit where you&#x27;d look — including new direct links to the online User Guide. The Mac Help menu now offers a variety of support options; Help &amp; Support (⌘?) routes right into the app.</p>
+<p><b>Timer settings, live.</b> Changes apply immediately — even to a running timer. An active session will re-grid into the new rhythm on the spot; a break already underway will finish as expected. Timer settings are global, so settings will automatically refresh when another device changes your cycle.</p>
+<p><b>Small improvements</b></p>
+<ul>
+<li>Day pages in My Days show the day&#x27;s time range in the header — &quot;Sunday · 9:21 PM – 11:30 PM.&quot;</li>
+<li>Summary cost estimates track current provider pricing and the newest models&#x27; tokenizers.</li>
+</ul>
+<p><b>Fixes</b></p>
+<ul>
+<li>The summary pill bar no longer shows a horizontal scroll bar when system scroll bars are set to Automatic or Always.</li>
+<li>Entries that end exactly at midnight now appear only on the day they started — matching how a late night actually feels.</li>
+<li>Entry timestamps are now consistently whole-minute everywhere — no more stray seconds sneaking in from edits or connected tools.</li>
+</ul>
+<p><b>Under the hood</b></p>
+<ul>
+<li>Sync hardening: the last legacy migration path now uses the same clobber-proof write pattern as the rest of sync.</li>
+<li>Release and update infrastructure groundwork for test/beta update channels.</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.20/Epilog-0.20.zip"
+				length="25331686"
+				type="application/octet-stream"
+				sparkle:edSignature="+3EyDjPw4gJcQd3TjzjgcZ2kxeP8q3AqR5kplAA8UfXg7x7c3gphQDXiZYgv5mo6pvk5614otyQNqjNQwB6uCA==" />
+		</item>
+		<item>
 			<title>Epilog 0.19</title>
 			<pubDate>Tue, 21 Jul 2026 13:07:24 GMT</pubDate>
 			<sparkle:version>48</sparkle:version>
