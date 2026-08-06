@@ -6,6 +6,21 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 0.21</title>
+			<pubDate>Thu, 06 Aug 2026 05:17:32 GMT</pubDate>
+			<sparkle:version>52</sparkle:version>
+			<sparkle:shortVersionString>0.21</sparkle:shortVersionString>
+			<sparkle:channel>internal</sparkle:channel>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<p>Epilog 0.21 (52) test build</p>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/test-b52/Epilog-test-b52.zip"
+				length="24876950"
+				type="application/octet-stream"
+				sparkle:edSignature="2pcGhNyP4YLO7gw7qhkQkM10pslBcy7YwtBNILKAVzEzL8w+OmldcwMtwdDrFm01DbqFHlHLh28crh24A8MmBg==" />
+		</item>
+		<item>
 			<title>Epilog 0.20</title>
 			<pubDate>Tue, 28 Jul 2026 06:33:45 GMT</pubDate>
 			<sparkle:version>49</sparkle:version>
