@@ -7,6 +7,40 @@
 		<!-- sparkle:items -->
 		<item>
 			<title>Epilog 0.21</title>
+			<pubDate>Tue, 11 Aug 2026 02:50:22 GMT</pubDate>
+			<sparkle:version>53</sparkle:version>
+			<sparkle:shortVersionString>0.21</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<p><b>Your journal is now end-to-end encrypted.</b> 0.21 rebuilds sync on a new account system with true end-to-end encryption: entries are sealed on your Mac before they leave it, and only you hold the key. We couldn&#x27;t read your journal if we wanted to.</p>
+<ul>
+<li>Sign in with Apple, Google, or email — accounts are new in 0.21, so everyone starts fresh</li>
+<li>A new Mac unlocks your journal automatically through iCloud Keychain — or with your recovery key, which Epilog helps you save when your account is created</li>
+<li>Reset your password right in the app with an emailed 6-digit code; changing it signs out your other devices and sends a confirmation email</li>
+</ul>
+<p><b>Back up and restore.</b> Settings → Journal Backup now exports your whole journal to a file — and imports it back. Import is additive, with a preview: it can restore accidentally deleted entries, and it asks before merging matching categories.</p>
+<p><b>A better daily quote.</b> The Today screen&#x27;s quote is now a real, attributed quote, with a tone that follows the arc of the week. Repeats are impossible, and pooled quotes work even offline.</p>
+<p><b>Extra Time keeps its promise.</b> The timer&#x27;s +5 now defers your break instead of skipping it — when you&#x27;re ready, the break runs in full.</p>
+<p><b>Design</b></p>
+<ul>
+<li>A new app icon</li>
+<li>Entry lists restyled for reading: softer body text, quieter timestamps, tags that stand out</li>
+<li>Summaries: create any timeframe from the &quot;+&quot; sheet — one summary per period, with a &quot;Last updated&quot; footer showing what wrote it</li>
+<li>More consistent backgrounds in light and dark; the tint color setting is retired</li>
+</ul>
+<p><b>Fixes</b></p>
+<ul>
+<li>Report a Bug now delivers reliably, even when written offline</li>
+<li>First sign-in sync hardening; uncategorized entries from older journals appear in the Uncategorized bucket again</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v0.21/Epilog-0.21.zip"
+				length="14691379"
+				type="application/octet-stream"
+				sparkle:edSignature="5GHcp6WGXnB3XPMSfM9nUBHElOj74H+gVc9lJezdhSXhWIg/c8l8gtXltjdRvr6DjPzsIcGnjsISuxh7E0E1DQ==" />
+		</item>
+		<item>
+			<title>Epilog 0.21</title>
 			<pubDate>Mon, 10 Aug 2026 15:39:32 GMT</pubDate>
 			<sparkle:version>53</sparkle:version>
 			<sparkle:shortVersionString>0.21</sparkle:shortVersionString>
