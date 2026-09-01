@@ -6,6 +6,45 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 1.0</title>
+			<pubDate>Tue, 01 Sep 2026 06:16:25 GMT</pubDate>
+			<sparkle:version>55</sparkle:version>
+			<sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+			<sparkle:channel>internal</sparkle:channel>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>Features</h3>
+<ul>
+<li><b>Version 1.0 release!</b> This is a feature-full release, ready for you early birds. iPhone and iPad now being tested in TestFlight. Private testing for now, but if you&#x27;re in the circle, you can now use Epilog on Mac, iPhone, and iPad.</li>
+<li><b>Select and copy a whole day.</b> Entries are now selectable text — drag across as many as you like, ⌘A, ⌘C, or look a word up. Paste into anything and it arrives formatted.</li>
+<li><b>Tap a tag to see everywhere you&#x27;ve used it.</b> Click any #tag or @mention in an entry and Epilog jumps to My Days with that tag selected and the list filtered to it.</li>
+<li><b>Copied summaries carry an attribution.</b> When you copy a full summary, it ends with a one-line &quot;— made by Epilog&quot; that links back to the site. Copying a single bullet or a short phrase doesn&#x27;t add it. Opt-out in Settings → Summaries → Clipboard.</li>
+<li><b>Your day&#x27;s tags, ordered by where you spent the most time.</b> My Days used to list tags alphabetically across two lines, so sometimes the tags that mattered most were getting cut out. They now sit on one line, most-effort tags first.</li>
+</ul>
+<h3>Improvements</h3>
+<ul>
+<li><b>A slightly better app icon.</b> P3 colors, instead of old sRGB.</li>
+<li><b>Opens straight into your journal.</b> Epilog no longer waits on the network to work out who you are at launch — including offline, where it used to bounce you to the sign-in screen and back.</li>
+<li><b>Signing in happens on auth.epilog.io.</b> The browser sheet now shows our own domain instead of a generic vendor address.</li>
+<li><b>Terms and Privacy, where you&#x27;d expect them.</b> Linked from the sign-in and sign-up screens, Settings → Privacy, Settings → Legal, and the Help menu.</li>
+<li><b>The timer&#x27;s completion notification tells you what&#x27;s next.</b> It now carries the same &quot;Next: 5 min break&quot; line the ring shows.</li>
+<li><b>Category rows respond to a click anywhere on the row.</b> Previously only the label was clickable.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li><b>No more AI summary glitches.</b> Generated summaries are checked before they&#x27;re saved — if a model returns placeholder or garbled output, Epilog retries once and then leaves your existing summary exactly where it was.</li>
+<li><b>Pasted summaries no longer garble punctuation.</b> Copying a summary into Notes or Mail could turn spaces and dashes into mojibake. Fixed.</li>
+<li><b>My Days shows which day is selected again.</b> The highlight had been painted over since the first build.</li>
+<li><b>A revoked sign-in signs you out.</b> If your session is ended elsewhere, Epilog returns you to the sign-in screen instead of running on a dead identity.</li>
+<li><b>On the Mac, entries are selected by dragging.</b> A single click now opens an entry for editing, so double-click no longer selects a word.</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/test-b55/Epilog-test-b55.zip"
+				length="14773365"
+				type="application/octet-stream"
+				sparkle:edSignature="b1gxbpDf/jA+vnsKdez/09okBvLsgIzL59xZFQyippl09JAeedyADA33q5dc3B8qb57E1R0M43gRaoVj9O4uAw==" />
+		</item>
+		<item>
 			<title>Epilog 0.21</title>
 			<pubDate>Tue, 11 Aug 2026 02:50:22 GMT</pubDate>
 			<sparkle:version>53</sparkle:version>
