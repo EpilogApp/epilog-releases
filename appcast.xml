@@ -6,6 +6,49 @@
 		<language>en</language>
 		<!-- sparkle:items -->
 		<item>
+			<title>Epilog 1.1</title>
+			<pubDate>Tue, 08 Sep 2026 04:52:54 GMT</pubDate>
+			<sparkle:version>57</sparkle:version>
+			<sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+			<sparkle:channel>internal</sparkle:channel>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>Features</h3>
+<ul>
+<li>Easier to recognize sessions and breaks in the circle timer. Breaks have their own dots, and the long break replaces the dots with a single cup.</li>
+<li>Live Activity and Dynamic Island. iPhone and iPad now provide a timer Live Activity, as well as a Dynamic Island on iPhone. Skip, stop, pause, add five minutes, or go straight into your break without opening the app.</li>
+<li>Mac keyboard shortcuts. ⌘N for a new entry; ⌘S, ⌘↩, or Return twice to save it; ⌘1, ⌘2, ⌘3 for Today, My Days, and Settings; Space, ←, and → run the timer.</li>
+<li>Add new entries from anywhere in your journal. The New Entry button is now in the toolbar. My Days has one too: the entry starts on that day, and if you&#x27;re looking at a specific category it will apply that category by default.</li>
+<li>More glass timers: Clear, Aviator, Frosted, and Classic. Frosted is the new default. Requires macOS 26 or iOS 26.</li>
+<li>Autocorrect and spell-check in the entry sheet. On iPhone and iPad the keyboard corrects as you type. Typos are now underlined on all platforms.</li>
+</ul>
+<h3>Improvements</h3>
+<ul>
+<li>Entry sheet clean-up.</li>
+<li>A &quot;Ready&quot; timer shows you the ready interval, not the &quot;next&quot; interval.</li>
+<li>Countdown time doesn&#x27;t bounce around anymore, and durations under ten minutes read as 9:59, not 09:59.</li>
+<li>Short breaks and long breaks each have their own switch. When hourly check-ins and hourly breaks land on the same minute, you choose which break to keep instead of losing the short one.</li>
+<li>Interval settings provide time examples. Timer settings now list your next four check-ins and next two breaks as clock times, to make it easier to understand the check-in, end of session, and start of session settings.</li>
+<li>The circle timer&#x27;s parallax animation on iPhone has been improved. Reduce Motion turns the movement off.</li>
+<li>iPad has @ and # keys on the main keyboard.</li>
+<li>Icons have changed for User Guide, Settings, New Entry, Edit Categories, and AI Refresh.</li>
+<li>Claude API defaults to Claude Opus 5 and supports Workspace ID.</li>
+<li>OpenAI API is ready for Astra.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Sign in with Apple and Google accounts can be deleted from inside the app. Before, the confirmation required a password. Now it confirms using the sign-in you used.</li>
+<li>The &quot;Key Needed&quot; alert can open Settings, instead of telling you to DIY.</li>
+<li>On iPad, the AI summary error alert stays long enough to read.</li>
+<li>In the Mac Delete Account sheet, Return backs out. Deleting takes a deliberate click.</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/test-b57/Epilog-test-b57.zip"
+				length="15879956"
+				type="application/octet-stream"
+				sparkle:edSignature="oJF5S8VQFltdbP42fsCR+WJZTk2eHnt0N93Cgo+cBdZp4VXvx/yjl7jZ8gKXxac9T7WlpBckd5N2CXp5u6NZBg==" />
+		</item>
+		<item>
 			<title>Epilog 1.0</title>
 			<pubDate>Wed, 02 Sep 2026 20:52:07 GMT</pubDate>
 			<sparkle:version>55</sparkle:version>
