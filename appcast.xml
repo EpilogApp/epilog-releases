@@ -7,6 +7,26 @@
 		<!-- sparkle:items -->
 		<item>
 			<title>Epilog 1.1.1</title>
+			<pubDate>Thu, 17 Sep 2026 04:09:04 GMT</pubDate>
+			<sparkle:version>62</sparkle:version>
+			<sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<p>This is a macOS 27 compatibility release, built using macOS 27.</p>
+<h3>Fixes</h3>
+<ul>
+<li>macOS 27: switching from My Days to Today no longer crashes the app</li>
+<li>macOS 27: resizing the window while on My Days no longer crashes the app</li>
+<li>macOS 27: the Settings background is fixed</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v1.1.1/Epilog-1.1.1.zip"
+				length="15613909"
+				type="application/octet-stream"
+				sparkle:edSignature="1kMhfuGRXVgR7iRqZayx9sjKUHppXuOqjUIaKPNwtWppEWZy12cl3SIsI52bjJ/u8hakxGIq0eGji8KfBV+aAw==" />
+		</item>
+		<item>
+			<title>Epilog 1.1.1</title>
 			<pubDate>Thu, 17 Sep 2026 03:58:31 GMT</pubDate>
 			<sparkle:version>62</sparkle:version>
 			<sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
