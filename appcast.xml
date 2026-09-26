@@ -7,6 +7,38 @@
 		<!-- sparkle:items -->
 		<item>
 			<title>Epilog 1.2</title>
+			<pubDate>Sat, 26 Sep 2026 18:06:32 GMT</pubDate>
+			<sparkle:version>63</sparkle:version>
+			<sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+			<sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+			<description><![CDATA[
+<h3>Features</h3>
+<ul>
+<li>iPhone and iPad - Pull to refresh entries</li>
+<li>iPad - Hardware keyboard support (↑ and ↓ bring back recent entries, Return twice saves, and Escape cancels)</li>
+<li>Mac - New setting: clear notifications on quit. Do you want to receive morning reminders after you quit the app? Modern macOS does that. This setting will turn them off.</li>
+</ul>
+<h3>Improvements</h3>
+<ul>
+<li>Entries stay current across devices</li>
+<li>Claude Opus 5.5 and GPT-6 Sol added</li>
+<li>iPhone and iPad - Settings shows the running timer</li>
+<li>Mac - AI connection status moved to the sidebar</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>iPhone - The timer countdown text in the toolbar is no longer truncated</li>
+<li>Mac - Bringing back an older entry after adding five minutes to a session no longer overwrites the entry you had just saved</li>
+<li>Mac - Turning AI connections off and on quickly no longer leaves them running while they show as off</li>
+</ul>
+			]]></description>
+			<enclosure url="https://github.com/EpilogApp/epilog-releases/releases/download/v1.2/Epilog-1.2.zip"
+				length="15662863"
+				type="application/octet-stream"
+				sparkle:edSignature="6d7XXJEcgoPA/73yfE4xijXKVf8VXTdiYyP1vzwyPydjBWNSrzrz4LO/M8tu6bX9Rv4gCbFNeHULmQhcCYt0Dw==" />
+		</item>
+		<item>
+			<title>Epilog 1.2</title>
 			<pubDate>Sat, 26 Sep 2026 04:31:48 GMT</pubDate>
 			<sparkle:version>63</sparkle:version>
 			<sparkle:shortVersionString>1.2</sparkle:shortVersionString>
